@@ -1,6 +1,6 @@
 # Trusted wallet assets fork
 
-Olive version of trusted wallet assets to get info for derivatives contracts
+Olive version of trusted wallet assets to get info for options & other derivatives contracts
 
 # Trust Wallet Assets Info
 
