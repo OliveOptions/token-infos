@@ -10,11 +10,13 @@ import { Binance } from "../generic/blockchains";
 import { readDirSync } from "../generic/filesystem";
 import { readJsonFile } from "../generic/json";
 
+
 import {
     getChainAssetLogoPath,
     getChainDenylistPath
 } from "../generic/repo-structure";
 
+    //adding onto binance chain
 const binanceChain = "binance";
 const binanceUrlTokenAssets = config.binanceUrlTokenAssets;
 let cachedAssets = [];
